@@ -10,7 +10,7 @@ namespace WebApplication8.Controllers
     {
         public ActionResult Show()
         {
-
+            //站都干啥
             return View();
         }
 
